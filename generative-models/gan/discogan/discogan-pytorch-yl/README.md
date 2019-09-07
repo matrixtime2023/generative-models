@@ -1,1 +1,1 @@
-# discovery gan
+# discovery generative adversarial networks
