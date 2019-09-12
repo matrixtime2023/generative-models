@@ -1,1 +1,0 @@
-# discovery generative adversarial networks
